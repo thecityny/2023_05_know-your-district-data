@@ -1,6 +1,4 @@
-# data-council-district-election2023
-
-Data for Know Your District App
+# Data for Know Your District App
 
 
 1. ****`demographics_ct.csv`**** Census 2020 data by census tract.
