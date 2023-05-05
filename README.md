@@ -32,3 +32,23 @@
 
 - Source: New York State Board of Elections https://www.elections.ny.gov/2023EnrollmentED.html
 
+<hr>
+
+#### Previous elections
+
+working..........
+
+<hr>
+
+#### Shapefiles
+
+working..........
+
+<hr>
+
+#### Relationship files
+
+working..........
+
+
+
