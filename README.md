@@ -36,8 +36,17 @@
 
 #### Previous elections
 
-working..........
+1.  ****`gov22_results.csv`**** 2022 governor's election results
 
+- Columns: `'ed', 'hochul', 'zeldin', 'gov_votes'`
+
+- Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
+
+2.  ****`tktkt.csv`**** 2021 mayoral election results
+
+- Columns: `'ed', 'adams', 'sliwa', 'mayor_votes'`
+
+- Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
 <hr>
 
 #### Shapefiles
