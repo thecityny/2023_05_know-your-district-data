@@ -52,7 +52,7 @@
 
 #### Crosswalks
 
-- Election Districts to Council District
+- Census Tracts to Council District
 
 - ****`tract_council_dist_crosswalk.csv`**** Census Tracts 2020 to Council District 2022 Relationship file
 
@@ -60,10 +60,18 @@
 
 - Source: Census Tracts 2020 shapefile https://s-media.nyc.gov/agencies/dcp/assets/files/zip/data-tools/bytes/nycb2020_23a.zip
 
+- Election Districts to Council District
+
+- ****`elex_dist_council_dist_crosswalk.csv`**** Election District 2022 to Council District 2022 Relationship file
+
+- Columns: `'ed', 'cd'`
+
+- Source: Election Distircts 2022 shapefile https://www.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page
+
 <hr>
 
 #### Shapefiles
 
-- Election Distircts 2022: https://data.cityofnewyork.us/City-Government/Election-Districts/h2n3-98hq
+- OD Election Distircts 2022: https://data.cityofnewyork.us/City-Government/Election-Districts/h2n3-98hq
 
 - Council District 2022: https://www.nyc.gov/assets/districting/downloads/misc/20221006-Final-Plan-Districts.json
