@@ -51,11 +51,11 @@
 
 #### Shapefiles
 
-Election Distircts 2022		https://data.cityofnewyork.us/City-Government/Election-Districts/h2n3-98hq
+Election Distircts 2022: https://data.cityofnewyork.us/City-Government/Election-Districts/h2n3-98hq
 
-Census Tracts 2020		https://s-media.nyc.gov/agencies/dcp/assets/files/zip/data-tools/bytes/nycb2020_23a.zip
+Census Tracts 2020: https://s-media.nyc.gov/agencies/dcp/assets/files/zip/data-tools/bytes/nycb2020_23a.zip
 
-Council District 2022		https://www.nyc.gov/assets/districting/downloads/misc/20221006-Final-Plan-Districts.json
+Council District 2022: https://www.nyc.gov/assets/districting/downloads/misc/20221006-Final-Plan-Districts.json
 		
 		
 <hr>
