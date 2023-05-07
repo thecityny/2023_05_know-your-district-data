@@ -38,7 +38,7 @@
 
 1.  ****`gov22_results.csv`**** 2022 governor's election results
 
-- Columns: `'ed', 'hochul', 'zeldin', 'gov_votes'`
+- Columns: `'ed', 'hochul', 'zeldin', 'gov_votes', 'voters_nov22'`
 
 - Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
 
