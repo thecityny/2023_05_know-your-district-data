@@ -42,7 +42,7 @@
 
 - Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
 
-2.  ****`tktkt.csv`**** 2021 mayoral election results
+2.  ****`mayor_results.csv`**** 2021 mayoral election results
 
 - Columns: `'ed', 'adams', 'sliwa', 'mayor_votes'`
 
