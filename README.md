@@ -28,9 +28,17 @@
 
 3.  ****`active_voters_feb23.csv`**** Total active voters enrollments by election districts as of Feb 2023
 
-- Columns: `'county', 'elect_dist', 'status', 'dem', 'rep', 'con', 'wor', 'oth', 'blank', 'total'`
+- Columns: `'ed', 'cd', 'dem', 'rep', 'con', 'wor', 'oth', 'blank', 'total'`
 
 - Source: New York State Board of Elections https://www.elections.ny.gov/2023EnrollmentED.html
+
+
+3.  ****`active_voters_feb23.json`**** Total active voters enrollments by election districts as of Feb 2023 in geojson format
+
+- Columns: `'ed', 'cd', 'dem', 'rep', 'con', 'wor', 'oth', 'blank', 'total', 'geometry'`
+
+- Source: New York State Board of Elections https://www.elections.ny.gov/2023EnrollmentED.html
+
 
 <hr>
 
@@ -82,11 +90,11 @@
 
 - Election Districts to Council District
 
-2. ****`elex_dist_council_dist_crosswalk.csv`**** Election District 2022 (new) to new Council District 2022 Relationship file
+2. ****`ed23-to-cd23-crosswalk.csv`**** Election District 2023 (new) to new Council District 2023 Relationship file
 
 - Columns: `'ed', 'cd'`
 
-- Source: Election Distircts 2022 shapefile https://www.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page
+- Source: Election Distircts 2023 shapefile https://www.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page
 
 3. ****`ed21-to-cd23-crosswalk.csv`**** Election District 2021 to Council District 2022 Relationship file. This file can be used to combine mayoral election results in 2021 to new council district shapefile.
 
