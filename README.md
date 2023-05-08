@@ -44,7 +44,17 @@
 
 2.  ****`mayor_results.csv`**** 2021 mayoral election results
 
-- Columns: `'ed', 'adams', 'sliwa', 'mayor_votes'`
+- Columns: `'ed', 'cd','adams', 'sliwa', 'mayor_votes'`
+
+- Note: City Council District 2023 merged with election districts 2021 using largest intersection logic
+
+- Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
+
+2.  ****`mayor_results.json`**** 2021 mayoral election results in GeoJSON format
+
+- Columns: `'ed', 'cd','adams', 'sliwa', 'mayor_votes', 'geometry'`
+
+- Note: City Council District 2023 merged with election districts 2021 using largest intersection logic. 
 
 - Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
 		
@@ -67,6 +77,12 @@
 - Columns: `'ed', 'cd'`
 
 - Source: Election Distircts 2022 shapefile https://www.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page
+
+- ****`ed21-to-cd23-crosswalk.csv`**** Election District 2021 to Council District 2023 Relationship file. This file can be used to combine mayoral election results in 2021 to new council district shapefile.
+
+- Columns: `'ed', 'cd'`
+
+- Source: Election Distircts 2021 shapefile [nyed_22a] https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page
 
 <hr>
 
