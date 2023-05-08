@@ -98,7 +98,7 @@
 
 - Columns: `'ed', 'cd'`
 
-- Source: Election Distircts 2021 shapefile [nyed_22b] https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page
+- Source: Election Distircts 2022 shapefile [nyed_22b] https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page
 
 <hr>
 
