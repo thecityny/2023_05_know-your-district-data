@@ -72,17 +72,23 @@
 
 - Election Districts to Council District
 
-- ****`elex_dist_council_dist_crosswalk.csv`**** Election District 2022 to Council District 2022 Relationship file
+- ****`elex_dist_council_dist_crosswalk.csv`**** Election District 2022 (new) to new Council District 2022 Relationship file
 
 - Columns: `'ed', 'cd'`
 
 - Source: Election Distircts 2022 shapefile https://www.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page
 
-- ****`ed21-to-cd23-crosswalk.csv`**** Election District 2021 to Council District 2023 Relationship file. This file can be used to combine mayoral election results in 2021 to new council district shapefile.
+- ****`ed21-to-cd23-crosswalk.csv`**** Election District 2021 to Council District 2022 Relationship file. This file can be used to combine mayoral election results in 2021 to new council district shapefile.
 
 - Columns: `'ed', 'cd'`
 
 - Source: Election Distircts 2021 shapefile [nyed_22a] https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page
+
+- ****`ed22-to-cd23-crosswalk.csv`**** Election District 2022 (old) to Council District 2022 Relationship file. This file can be used to combine governor election results in 2021 to new council district shapefile.
+
+- Columns: `'ed', 'cd'`
+
+- Source: Election Distircts 2021 shapefile [nyed_22c1] https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page
 
 <hr>
 
