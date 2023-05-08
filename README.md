@@ -50,7 +50,7 @@
 
 - Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
 
-2.  ****`mayor_results.json`**** 2021 mayoral election results in GeoJSON format
+3.  ****`mayor_results.json`**** 2021 mayoral election results in GeoJSON format
 
 - Columns: `'ed', 'cd','adams', 'sliwa', 'mayor_votes', 'geometry'`
 
@@ -64,7 +64,7 @@
 
 - Census Tracts to Council District
 
-- ****`tract_council_dist_crosswalk.csv`**** Census Tracts 2020 to Council District 2022 Relationship file
+1. ****`tract_council_dist_crosswalk.csv`**** Census Tracts 2020 to Council District 2022 Relationship file
 
 - Columns: `'ct', 'ccd'`
 
@@ -72,19 +72,19 @@
 
 - Election Districts to Council District
 
-- ****`elex_dist_council_dist_crosswalk.csv`**** Election District 2022 (new) to new Council District 2022 Relationship file
+2. ****`elex_dist_council_dist_crosswalk.csv`**** Election District 2022 (new) to new Council District 2022 Relationship file
 
 - Columns: `'ed', 'cd'`
 
 - Source: Election Distircts 2022 shapefile https://www.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page
 
-- ****`ed21-to-cd23-crosswalk.csv`**** Election District 2021 to Council District 2022 Relationship file. This file can be used to combine mayoral election results in 2021 to new council district shapefile.
+3. ****`ed21-to-cd23-crosswalk.csv`**** Election District 2021 to Council District 2022 Relationship file. This file can be used to combine mayoral election results in 2021 to new council district shapefile.
 
 - Columns: `'ed', 'cd'`
 
 - Source: Election Distircts 2021 shapefile [nyed_22a] https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page
 
-- ****`ed22-to-cd23-crosswalk.csv`**** Election District 2022 (old) to Council District 2022 Relationship file. This file can be used to combine governor election results in 2021 to new council district shapefile.
+4. ****`ed22-to-cd23-crosswalk.csv`**** Election District 2022 (old) to Council District 2022 Relationship file. This file can be used to combine governor election results in 2021 to new council district shapefile.
 
 - Columns: `'ed', 'cd'`
 
