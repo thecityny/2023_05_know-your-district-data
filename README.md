@@ -36,13 +36,23 @@
 
 #### Previous elections
 
-1.  ****`gov22_results.csv`**** 2022 governor's election results
+1.  ****`gov22_results.csv`**** 2022 governor's election results 
 
-- Columns: `'ed', 'hochul', 'zeldin', 'gov_votes', 'voters_nov22'`
+- Columns: `'ed', 'cd','hochul', 'zeldin', 'gov_votes', 'voters_nov22'`
+
+- Note: City Council District 2023 merged with election districts 2022 using largest intersection logic
 
 - Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
 
-2.  ****`mayor_results.csv`**** 2021 mayoral election results
+2.  ****`gov22_results.json`**** 2022 governor's election results in geojson format
+
+- Columns: `'ed', 'cd, 'geometry,'hochul', 'zeldin', 'gov_votes', 'voters_nov22'`
+
+- Note: City Council District 2023 merged with election districts 2022 using largest intersection logic
+
+- Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
+
+3.  ****`mayor_results.csv`**** 2021 mayoral election results
 
 - Columns: `'ed', 'cd','adams', 'sliwa', 'mayor_votes'`
 
@@ -50,7 +60,7 @@
 
 - Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
 
-3.  ****`mayor_results.json`**** 2021 mayoral election results in GeoJSON format
+4.  ****`mayor_results.json`**** 2021 mayoral election results in GeoJSON format
 
 - Columns: `'ed', 'cd','adams', 'sliwa', 'mayor_votes', 'geometry'`
 
@@ -88,7 +98,7 @@
 
 - Columns: `'ed', 'cd'`
 
-- Source: Election Distircts 2021 shapefile [nyed_22c1] https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page
+- Source: Election Distircts 2021 shapefile [nyed_22b] https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page
 
 <hr>
 
