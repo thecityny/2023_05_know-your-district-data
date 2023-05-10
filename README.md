@@ -21,9 +21,9 @@
 #### ACS5Y 2021 Ethnicity and Ancestry Data
 
 1. ****`demographics/master_acs5y21.csv`**** Ancestry, Hispanic Origin and Asian groups data combined. This is a master file
-2. ****`demographics/ancestry_b04006.csv`**** <a href="https://data.census.gov/table?q=ANCESTRY&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B04006&tp=false">B04006|People Reporting Ancestry<a>
-3. ****`demographics/hispanic_b03001.csv`**** <a href="https://data.census.gov/table?q=hispanic+ethnicity&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B03001">B03001|Hispanic Or Latino Origin By Specific Origin<a>
-4. ****`demographics/asian_b02018.csv`**** <a href="https://data.census.gov/table?q=asian+ethnicity&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B02018">B02018 | Asian Alone Or In Any Combination By Selected Groups</a>
+2. ****`demographics/ancestry_b04006.csv`**** <a href="https://data.census.gov/table?q=ANCESTRY&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B04006&tp=false">B04006 | People Reporting Ancestry<a>
+3. ****`demographics/hispanic_b03001.csv`**** <a href="https://data.census.gov/table?q=hispanic+ethnicity&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B03001">B03001 | Hispanic Or Latino Origin By Specific Origin<a>
+4. ****`demographics/asian_b02015.csv`**** <a href="https://data.census.gov/table?q=asian+ethnicity&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B02015">B02018 | Asian Alone By Selected Groups</a>
 	
 <hr>
 
