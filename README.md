@@ -18,6 +18,13 @@
 
 - Source: Department of City Planning https://www.nyc.gov/site/planning/planning-level/nyc-population/2020-census.page
 
+#### ACS5Y 2021 Ethnicity and Ancestry Data
+
+1. ****`master_acs5y21.csv`**** Ancestry, Hispanic Origin and Asian groups data combined. This is a master file
+2. ****`ancestry_b04006.csv`**** <a href="https://data.census.gov/table?q=ANCESTRY&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B04006&tp=false">B04006|People Reporting Ancestry<a>
+3. ****`hispanic_b03001.csv`**** <a href="https://data.census.gov/table?q=hispanic+ethnicity&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B03001">B03001|Hispanic Or Latino Origin By Specific Origin<a>
+4. ****`asian_b02018.csv`**** <a href="https://data.census.gov/table?q=asian+ethnicity&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B02018">B02018 | Asian Alone Or In Any Combination By Selected Groups</a>
+	
 <hr>
 
 #### Voter Enrollments
@@ -104,5 +111,8 @@
 
 <hr>
 
+#### Shapefiles
 
+1. ****`cc-districts-2022.json`**** Old 2022 Council District Boundaries
+2. ****`cc-districts-2023.json`**** New 2023 Council District Boundaries 
 
