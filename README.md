@@ -6,7 +6,7 @@
 
 1. ****`master-cd/council.csv`**** All data for the 51 Council Districts
 
-- Columns: `'cd', 'adj_pop', 'adj_O18_pop', 'pop', 'pop_u18', 'hisp', 'white', 'black', 'asian', 'other_race', 'multiracial', 'lar_grp1', 'lar_grp2', 'lar_grp3', 'lar_pop1', 'lar_pop2', 'lar_pop3', 'dem', 'rep', 'con', 'wor', 'oth', 'blank', 'total', 'adams', 'sliwa', 'mayor_votes', 'prim_adams', 'prim_wiley', 'prim_garcia', 'prim_yang', 'prim_stringer', 'prim_morales', 'prim_mcguire', 'prim_donovan', 'prim_votes', 'hochul', 'zeldin', 'gov_votes', 'voters_nov22'`
+- Columns: `'cd', 'adj_pop', 'adj_O18_pop', 'pop', 'pop_u18', 'hisp', 'white', 'black', 'asian', 'other_race', 'multiracial', 'lar_grp1', 'lar_grp2', 'lar_grp3', 'lar_pop1', 'lar_pop2', 'lar_pop3', 'dem', 'rep', 'con', 'wor', 'oth', 'blank', 'total', 'adams', 'sliwa', 'mayor_votes', 'prim_adams', 'prim_wiley', 'prim_garcia', 'prim_yang', 'prim_stringer', 'prim_morales', 'prim_mcguire', 'prim_donovan', 'prim_votes', 'hochul', 'zeldin', 'gov_votes', 'voters_nov22', 'tot_pov_pop', 'below_pov_pop','pct_pov'`
 
 #### Demographics
 
@@ -30,7 +30,15 @@
 2. ****`demographics/ancestry_b04006.csv`**** <a href="https://data.census.gov/table?q=ANCESTRY&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B04006&tp=false">B04006 | People Reporting Ancestry<a>
 3. ****`demographics/hispanic_b03001.csv`**** <a href="https://data.census.gov/table?q=hispanic+ethnicity&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B03001">B03001 | Hispanic Or Latino Origin By Specific Origin<a>
 4. ****`demographics/asian_b02015.csv`**** <a href="https://data.census.gov/table?q=asian+ethnicity&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSDT5Y2021.B02015">B02018 | Asian Alone By Selected Groups</a>
-	
+
+#### Poverty Rates
+
+1. ****`demographics/poverty.csv`**** Percent below poverty by council district using census tract level ACS 5Y estimates
+
+- Columns: `'ct', 'cd', 'tot_pov_pop', 'below_pov_pop'`
+
+- Source: <a href="https://data.census.gov/table?q=S1701:+POVERTY+STATUS+IN+THE+PAST+12+MONTHS&g=050XX00US36005$1400000,36047$1400000,36061$1400000,36081$1400000,36085$1400000&tid=ACSST5Y2021.S1701">Poverty status in the past 12 months</a>
+
 <hr>
 
 #### Voter Enrollments
