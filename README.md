@@ -71,13 +71,13 @@
 
 - Note: City Council District 2023 merged with election districts 2021 using largest intersection logic
 
-4.  ****`elections/mayor_results.json`**** 2021 mayoral election results in GeoJSON format
+4.  ****`elections/mayor_results.json`**** 2021 primary round 1 and mayoral election results in GeoJSON format
 
-- Columns: `'ed', 'cd','adams', 'sliwa', 'mayor_votes', 'geometry'`
+- Columns: `'ed', 'cd', 'adams', 'sliwa', 'mayor_votes', 'geometry', 'prim_adams', 'prim_wiley', 'prim_garcia', 'prim_yang', 'prim_stringer','prim_morales', 'prim_mcguire', 'prim_donovan', 'prim_votes'`
 
 - Note: City Council District 2023 merged with election districts 2021 using largest intersection logic. 
 
-- Source: NYC Board of Elections https://vote.nyc/page/election-results-summary
+- Source: NYC Board of Elections: https://www.vote.nyc/page/election-results-summary-2021
 		
 <hr>
 
