@@ -14,7 +14,7 @@
 
 3. ****`demographics/demographics.json`**** Census 2020 data by census tract in geojson format. Total number of census tracts: 2,327
 
-- Columns: `'ct', 'pop', 'pop_u18', 'hisp', 'white', 'black', 'asian', 'other_race', 'multiracial', 'nta', 'geometry', 'cd'`
+- Columns: `'ct', 'pop', 'pop_u18', 'hisp', 'white', 'black', 'asian', 'other_race', 'multiracial', 'nta', 'geometry', 'cd', 'lar_grp', 'lar_pop'`
 
 - Source: Department of City Planning https://www.nyc.gov/site/planning/planning-level/nyc-population/2020-census.page
 
