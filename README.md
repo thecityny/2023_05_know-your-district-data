@@ -6,7 +6,11 @@
 
 1. ****`master-cd/council.csv`**** All data for the 51 Council Districts
 
-- Columns: `'cd', 'adj_pop', 'adj_O18_pop', 'pop', 'pop_u18', 'hisp', 'white', 'black', 'asian', 'other_race', 'multiracial', 'lar_grp1', 'lar_grp2', 'lar_grp3', 'lar_pop1', 'lar_pop2', 'lar_pop3', 'dem', 'rep', 'con', 'wor', 'oth', 'blank', 'total', 'adams', 'sliwa', 'mayor_votes', 'prim_adams', 'prim_wiley', 'prim_garcia', 'prim_yang', 'prim_stringer', 'prim_morales', 'prim_mcguire', 'prim_donovan', 'prim_votes', 'hochul', 'zeldin', 'gov_votes', 'voters_nov22', 'tot_pov_pop', 'below_pov_pop','pct_pov'`
+- Columns: `'cd', 'adj_pop', 'adj_O18_pop', 'pop', 'pop_u18', 'hisp', 'white', 'black', 'asian', 'other_race', 'multiracial', 'lar_grp1', 'lar_grp2', 'lar_grp3', 'lar_pop1', 'lar_pop2', 'lar_pop3', 'dem', 'rep', 'con', 'wor', 'oth', 'blank', 'total', 'adams', 'sliwa', 'mayor_votes', 'prim_adams', 'prim_wiley', 'prim_garcia', 'prim_yang', 'prim_stringer', 'prim_morales', 'prim_mcguire', 'prim_donovan', 'prim_votes', 'hochul', 'zeldin', 'gov_votes', 'voters_nov22', 'tot_pov_pop', 'below_pov_pop','pct_pov', 'incumbent', 'boro', 'party', 'ntas', 'pre_pop', 'pre_pop_u18', 'pre_hisp', 'pre_white', 'pre_black','pre_asian', 'pre_other_race', 'pre_multiracial'`
+
+2. ****`master-cd/council.json`**** All data for the 51 Council Districts in geojson format
+
+- Columns: `'cd', 'geometry', 'adj_pop', 'adj_O18_pop', 'pop', 'pop_u18', 'hisp', 'white', 'black', 'asian', 'other_race', 'multiracial', 'lar_grp1','lar_grp2', 'lar_grp3', 'lar_pop1', 'lar_pop2', 'lar_pop3', 'dem','rep', 'con', 'wor', 'oth', 'blank', 'total', 'adams', 'sliwa', 'mayor_votes', 'prim_adams', 'prim_wiley', 'prim_garcia', 'prim_yang','prim_stringer', 'prim_morales', 'prim_mcguire', 'prim_donovan', 'prim_votes', 'hochul', 'zeldin', 'gov_votes', 'voters_nov22','tot_pov_pop', 'below_pov_pop', 'pct_pov', 'incumbent', 'boro', 'party', 'ntas', 'pre_pop', 'pre_pop_u18', 'pre_hisp', 'pre_white', 'pre_black','pre_asian', 'pre_other_race', 'pre_multiracial'`
 
 #### Demographics
 
