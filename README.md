@@ -14,6 +14,15 @@
 
 <hr>
 
+#### Notes
+
+- Citywide Median Household Income: $70,663
+- 2021 Citywide primary turnout: 26.5%
+- 2021 Citywide general turnout: 23.3%
+- 2021 Citywide Gov election Turnout: 36%
+- Hochul NYC win margin: 39.1 percentage points
+- Adams Win Margin Versus Sliwa: 38.4 points
+
 #### Demographics
 
 1. ****`demographics/demographics_extra.csv`**** Census 2020 data by census tract. Total number of census tracts: 2,327
