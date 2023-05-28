@@ -1,5 +1,15 @@
 # Data for Know Your District App
 
+Population data is from the 2020 decennial census conducted by the U.S. Census Bureau. To determine the racial and ethnic composition of each council district, we combined the population data from the 2020 census tracts with the newly defined boundaries of the city council.
+
+The detailed ethnic and racial data in this tool is from the 2016-2021 5-year American Community Survey (ACS) estimates published by the U.S. Census Bureau. The identification of the largest population groups is based on the ACS datasets related to ancestry, Hispanic origin, and Asian origin. The count of the Chinese population excludes individuals who identify as Taiwanese. Those who self-identify with multiple heritages are included in each respective group. The percentages were calculated by dividing the population count of each group by the total city population, as mentioned in the citywide ACS estimates. The ACS data provides population counts for both the overall region (such as Asia) and individual countries within that region. In our analysis, we excluded the population counts at the regional level.
+
+The median household income figures are also from the 5-year ACS estimates. To determine the median household income at the council district level, we calculated the average of the median incomes across the census tracts within each council district.
+
+The voter enrollment data reflects the status as of February 2023 and is from the New York Board of Elections. To calculate the enrollments for the new council districts, we aggregated the active registered voters for the election districts that fall within or intersect with the new boundaries. The previous election results and turnouts in this tool are based on the data from the New York City Board of Elections. 
+
+All maps are based on the shapefiles from the NYC Department of City Planning. If a census tract or an election district fell between two council districts, it was considered to be the part of the district with largest overlapping area. In some cases, our numbers might be slight different than the numbers reported elsewhere.
+
 <hr>
 
 #### Council District
