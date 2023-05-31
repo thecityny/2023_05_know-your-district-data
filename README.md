@@ -1,6 +1,6 @@
 # Data for Know Your District App
 
-Population data is from the 2020 decennial census conducted by the U.S. Census Bureau. To determine population breakdowns by race and ethnicity for each council district, we combined the data from the 2020 census tracts with the newly defined boundaries of the City Council. A person can be of Hispanic origin, regardless of their race. The numbers for racial groups excludes people of Hispanic origin.
+Population data is from the 2020 decennial census conducted by the U.S. Census Bureau. To determine population breakdowns by race and ethnicity for each council district, we combined the data from the 2020 census tracts with the newly defined boundaries of the City Council. A person can be of Hispanic origin, regardless of their race. The numbers for racial groups exclude people of Hispanic origin.
 
 The detailed demographic data in this tool is from the 2016-2021 5-year American Community Survey (ACS) estimates published by the U.S. Census Bureau. The data is self-reported and sampled. 
 
