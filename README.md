@@ -1,8 +1,9 @@
 # Data for Know Your District App
 
-Population data is from the 2020 decennial census conducted by the U.S. Census Bureau. To determine population breakdowns by race and ethnicity for each council district, we combined the data from the 2020 census tracts with the newly defined boundaries of the City Council.
+Population data is from the 2020 decennial census conducted by the U.S. Census Bureau. To determine population breakdowns by race and ethnicity for each council district, we combined the data from the 2020 census tracts with the newly defined boundaries of the City Council. A person can be of Hispanic origin, regardless of their race. The numbers for racial groups excludes people of Hispanic origin.
 
 The detailed demographic data in this tool is from the 2016-2021 5-year American Community Survey (ACS) estimates published by the U.S. Census Bureau. The data is self-reported and sampled. 
+
 We based our identification of the largest population groups in each Council district on the ACS datasets related to ancestry, Hispanic origin, and Asian origin. The count of the Chinese population excludes people who identify as Taiwanese, per the standard practice of the U.S. Census Bureau. 
 
 We include those who self-identify multiple heritages in each respective group. The ACS data provides population counts for both the overall region (such as Asia) and individual countries within that region. In our analysis, we excluded the population counts at the regional level.
