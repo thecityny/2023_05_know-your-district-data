@@ -27737,7 +27737,7 @@
         "multiracial": 171,
         "nta": "Chinatown-Two Bridges",
         "cd": "1",
-        "lar_grp": "Chinese",
+        "lar_grp": "Chinese, Except Taiwanese",
         "lar_pop": 4458.0
       },
       "geometry": {
@@ -27759,7 +27759,7 @@
         "multiracial": 231,
         "nta": "Lower East Side",
         "cd": "1",
-        "lar_grp": "Chinese",
+        "lar_grp": "Chinese, Except Taiwanese",
         "lar_pop": 2456.0
       },
       "geometry": {
